@@ -1,0 +1,1 @@
+sudo apt purge libreoffice-common mpv evince gucharmap parcellite warpinator redshift-gtk seahorse onboard sticky xviewer xreader gucharmap catfish gnome-calculator pix simple-scan hexchat thunderbird webapp-manager xfce4-dict thingy lxmusic rhythmbox smplayer gnome-logs mintwelcome mintupdate blueman orca 
